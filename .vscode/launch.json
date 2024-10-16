@@ -2,13 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "testLingJava",
-      "request": "launch",
-      "mainClass": "testLingJava",
-      "projectName": "JAVA_PROZ-AWS_46b0ea96"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
